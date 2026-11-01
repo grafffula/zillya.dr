@@ -1,0 +1,6 @@
+{
+  "name": "С Юбилеем 55 лет, любимая мама Зиля!",
+  "description": "Интерактивная праздничная открытка с 55-летием и выходом в отпуск для любимой мамы Зили от сыновей и папы Фаниса.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
